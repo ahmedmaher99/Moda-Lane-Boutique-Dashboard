@@ -94,7 +94,7 @@ The dashboard enables users to:
 
 ##  Moda Lane Boutique Dashboard
 
-![Moda Lane Boutique Dashboard](https://github.com/YOUR_USERNAME/Moda-Lane-Boutique-Dashboard/blob/main/moda-lane-dashboard.png)
+![Moda Lane Boutique Dashboard](https://github.com/ahmedmaher99/Moda-Lane-Boutique-Dashboard/blob/main/Screenshot.png)
 
 ---
 
