@@ -1,6 +1,8 @@
 #  Moda Lane Boutique Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Data%20Cleaning-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-orange?logo=mysql&logoColor=white)
 ![Fashion Retail](https://img.shields.io/badge/Fashion-Retail%20Analytics-orange)
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
